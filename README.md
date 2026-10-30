@@ -1,5 +1,5 @@
 ## Hi there 👋
-# SCST1133 Digital Tools
+# SCST1133 
 
 ## Student Information
 - Name: Hana Khayra 
